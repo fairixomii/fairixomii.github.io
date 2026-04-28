@@ -5,9 +5,11 @@ body{
 h1 {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size:larger;
+    color: ghostwhite;
 }
 
 h2 {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
+    color: ghostwhite;
 }
