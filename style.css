@@ -19,3 +19,6 @@ h2 {
     display: grid;
     grid-template-columns: auto auto;
 }
+img{
+    border-radius: 8px;
+}
