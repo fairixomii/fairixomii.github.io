@@ -29,3 +29,9 @@ p{
     color: ghostwhite;
     font-size: 5px;
 }
+p.a{
+    text-align: left;
+}
+p.b{
+    text-align: right;
+}
