@@ -27,7 +27,7 @@ img{
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
     color: ghostwhite;
-    font-size: 10px;
+    font-size: 7px;
 }
 p.a{
     text-align: left;
@@ -38,6 +38,6 @@ p.a{
 p.b{
     text-align: left;
     padding: 10px;
-    height:220px;
-    width: 220px;
+    height:223px;
+    width: 223px;
 }
