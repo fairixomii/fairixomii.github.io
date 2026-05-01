@@ -27,17 +27,17 @@ img{
 p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', 'Verdana', sans-serif;
     color: ghostwhite;
-    font-size: smaller;
+    font-size: 4px;
 }
 p.a{
     text-align: left;
     padding: 10px;
-    height: 200px;
-    width: 200px;
+    height: 210px;
+    width: 210px;
 }
 p.b{
     text-align: left;
     padding: 10px;
-    height:200px;
-    width: 200px;
+    height:210px;
+    width: 210px;
 }
