@@ -31,7 +31,9 @@ p{
 }
 p.a{
     text-align: left;
-    padding: 10;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
 }
 p.b{
     text-align: right;
